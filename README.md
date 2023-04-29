@@ -29,7 +29,7 @@
 ---
 
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-stats.vercel.app/api?dhanaharish=dhanaharish&theme=dark&background=000000)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanaharish)](https://github-readme-stats.vercel.app/api?)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanaharish&show_icons=true&locale=en&layout=compact" alt="dhanaharish" /></p><br><br> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanaharish&show_icons=true&locale=en" alt="dhanaharish" /></p> <br><br><p><img align="top right corner" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanaharish&" alt="dhanaharish" /></p>
 
