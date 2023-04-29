@@ -31,20 +31,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
----
-
-### :fire: My Stats :
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanaharish&show_icons=true&locale=en&layout=compact" alt="dhanaharish" /></p><br><br> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanaharish&show_icons=true&locale=en" alt="dhanaharish" /></p> <br><br><p><img align=" right corner" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanaharish&" alt="dhanaharish" /></p>
-
-
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhanaharish)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 <p align="center">
     <a href="https://github.com/dhanaharish/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dhanaharish's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanaharish&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -63,19 +49,12 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SabarinathK/github-readme-activity-graph"><img alt="SabarinathK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SabarinathK&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/dhanaharish/github-readme-activity-graph"><img alt="dhanaharish' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhanaharish&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/> -->
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/sabarinath-k-bio/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-</p>
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SabarinathK">
+    <img src="https://komarev.com/ghpvc/?username=dhanaharish">
 </a>
-<a href="https://github.com/SabarinathK?tab=followers"><img src="https://img.shields.io/github/followers/SabarinathK?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/dhanaharish?tab=followers"><img src="https://img.shields.io/github/followers/dhanaharish?label=Followers&style=social" alt="GitHub Badge"></a>
