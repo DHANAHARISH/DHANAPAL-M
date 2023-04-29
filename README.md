@@ -19,7 +19,8 @@
 </div>
 ---
 
-### :woman_technologist: About Me :                                                                                                                                                                                                                                                                                                            .🔭 I’m currently working on internship at rajalakshmi eduverse<br><br>                                                                                               .🌱 I’m currently learning SQL,Tablue,Machine learning<br><br>                                                                                                         .📫 How to reach me https://www.linkedin.com/in/dhanapal-m-aa0780259
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India..🔭 I’m currently working on internship at rajalakshmi eduverse<br><br>                                                                                               .🌱 I’m currently learning SQL,Tablue,Machine learning<br><br>                                                                                                         .📫 How to reach me https://www.linkedin.com/in/dhanapal-m-aa0780259
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
