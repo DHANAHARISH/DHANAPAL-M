@@ -10,7 +10,7 @@
   </a>
 </div>
 <h1>
-  HI 👋, I'M DHANAAPAL M A passionate Data science from India   
+  HI 👋, I'M DHANAAPAL M  
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 </h1>
@@ -25,6 +25,7 @@
 ---
 
 ### :woman_technologist: About Me :
+A passionate Data science from India  <br><br>
 .🔭 I’m currently working on internship at rajalakshmi eduverse <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br><br>                         .🌱 I’m currently learning SQL,Tablue,Machine learning <br><br>                                                                                                        .📫 How to reach me dhanahari6697@gamil.com
 ---
 
