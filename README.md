@@ -10,7 +10,7 @@
   </a>
 </div>
 <h1>
-  HI 👋, I'M DHANAAPAL M A passionate Data science from India   
+HI 👋, I'M DHANAAPAL M A passionate Data science from India   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -37,19 +37,15 @@
 </p>
 
 ## 📊 My Github Stats
-
-  <br/>
+<br/>
     <a href="https://github.com/dhanaharish/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhanaharish&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/khar-on/github-readme-stats"><img alt="dhanaharish' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanaharish&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <!-- 
 <br/>
 <br/>
-
 <a href="https://github.com/dhanaharish/github-readme-activity-graph"><img alt="dhanaharish' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhanaharish&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/> -->
 ## ❤ Views and Followers
