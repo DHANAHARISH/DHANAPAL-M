@@ -31,13 +31,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  /
 </div>
-  ---
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanaharish&show_icons=true&locale=en&layout=compact" alt="dhanaharish" /></p>
 
-### :fire: My Stats :
-  https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanaharish&show_icons=true&locale=en" alt="dhanaharish" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanaharish&" alt="dhanaharish" /></p>
+
+  
   
   
   
