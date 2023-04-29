@@ -20,7 +20,7 @@
 ---
 
 ### :woman_technologist: About Me :
-.🔭 I’m currently working on internship at rajalakshmi eduverse <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">                         .🌱 I’m currently learning SQL,Tablue,Machine learning                                                                                                        .📫 How to reach me dhanahari6697@gamil.com
+.🔭 I’m currently working on internship at rajalakshmi eduverse <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br><br>                         .🌱 I’m currently learning SQL,Tablue,Machine learning <br><br>                                                                                                        .📫 How to reach me dhanahari6697@gamil.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
