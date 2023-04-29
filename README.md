@@ -11,6 +11,7 @@
 </div>
 <h1>
   HI 👋, I'M DHANAAPAL M
+  A passionate Data science from India   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -18,7 +19,7 @@
 </div>
 ---
 
-### :woman_technologist: About Me :                                                                                                                                    A passionate Data science from India                                                                                                                                     .🔭 I’m currently working on internship at rajalakshmi eduverse<br><br>                                                                                               .🌱 I’m currently learning SQL,Tablue,Machine learning<br><br>                                                                                                         .📫 How to reach me https://www.linkedin.com/in/dhanapal-m-aa0780259
+### :woman_technologist: About Me :                                                                                                                                     .🔭 I’m currently working on internship at rajalakshmi eduverse<br><br>                                                                                               .🌱 I’m currently learning SQL,Tablue,Machine learning<br><br>                                                                                                         .📫 How to reach me https://www.linkedin.com/in/dhanapal-m-aa0780259
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
