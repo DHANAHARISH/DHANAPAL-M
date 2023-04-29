@@ -29,8 +29,30 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanaharish&show_icons=true&locale=en&layout=compact" alt="dhanaharish" /></p><br><br> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanaharish&show_icons=true&locale=en" alt="dhanaharish" /></p> <br><br><p><img align="top right corner" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanaharish&" alt="dhanaharish" /></p>
 
 
-  
 
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</div>
+
+###
 
 
  
