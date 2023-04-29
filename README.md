@@ -31,10 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  /
 </div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanaharish&show_icons=true&locale=en&layout=compact" alt="dhanaharish" /></p>
-
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanaharish&show_icons=true&locale=en&layout=compact" alt="dhanaharish" /</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanaharish&show_icons=true&locale=en" alt="dhanaharish" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanaharish&" alt="dhanaharish" /></p>
 
   
