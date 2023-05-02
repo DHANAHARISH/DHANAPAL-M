@@ -10,7 +10,7 @@
   </a>
 </div>
 <h1>
-  HI 👋, I'M DHANAAPAL M  
+  HI 👋, I'M DHANAPAL M  
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 </h1>
