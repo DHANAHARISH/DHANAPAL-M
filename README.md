@@ -26,7 +26,7 @@
 
 ### :woman_technologist: About Me :
 A passionate Data science from India  <br><br>
-.🔭 I’m currently working on internship at rajalakshmi eduverse <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br><br>                         .🌱 I’m currently learning SQL,Tablue,Machine learning <br><br>                                                                                                        .📫 How to reach me dhanahari6697@gamil.com
+.🔭 I have completed Datascience python from scratch at rajalakshmi eduverse <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br><br>                         .🌱 I have a Skill in Python , Machine learning, SQL,Tablue, <br><br>                                                                                                        .📫 How to reach me dhanahari6697@gamil.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
